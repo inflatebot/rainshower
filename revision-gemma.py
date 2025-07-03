@@ -1,3 +1,11 @@
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#     "safetensors",
+#     "torch",
+# ]
+# ///
+
 # Re-attaches the vision encoder to a Gemma3 model. By ToastyPigeon
 
 # pip install pathlib safetensors tqdm 
