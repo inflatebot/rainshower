@@ -1,8 +1,10 @@
 # /// script
 # requires-python = ">=3.13"
 # dependencies = [
+#     "pathlib",
 #     "safetensors",
 #     "torch",
+#     "tqdm",
 # ]
 # ///
 
